@@ -57,5 +57,5 @@ For more information about Prodigy Infotech, visit their website: [prodigyinfote
 
 ---
 
-**Author:** Shyam Sasim  
+**Author:** Shyam M  
 **Repository:** [PRODIGY_INFOTECH-Machine-learning-task-1](https://github.com/shyamsasim-del/PRODIGY_INFOTECH-Machine-learning-task-1)
